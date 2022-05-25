@@ -94,7 +94,7 @@
 		<dependency>
 		    <groupId>org.springframework.security</groupId>
 		    <artifactId>spring-security-core</artifactId>
-		    <version>5.2.0.RELEASE</version>
+		    <version>5.5.7</version>
 		</dependency>
 		
 		<!-- spring-security-config (jsp에서 사용하려면 taglibs까지 설치)-->
